@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@picocss/pico": "^2.0.6"
+  },
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "Aplicación básica sobre el clima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NolascoSaul/Clima.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "clima"
+  ],
+  "author": "Saúl Nolasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NolascoSaul/Clima/issues"
+  },
+  "homepage": "https://github.com/NolascoSaul/Clima#readme"
+}
